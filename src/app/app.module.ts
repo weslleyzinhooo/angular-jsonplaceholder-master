@@ -6,7 +6,7 @@ import { AppComponent } from './app.component';
 import { UserModule } from './user/user.module';
 import { PostModule } from './post/post.module';
 import {PhotosModule} from './photos/photos.module'
-import { from } from 'rxjs';
+
 
 @NgModule({
   declarations: [
