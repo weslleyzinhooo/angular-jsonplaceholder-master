@@ -2,7 +2,7 @@
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { PhotosListComponent } from './photos-list.component/photos-list.component';
+import { PhotosListComponent } from './photos-list/photos-list.component';
 
 
 @NgModule({
