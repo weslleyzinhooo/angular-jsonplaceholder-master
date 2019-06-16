@@ -5,7 +5,7 @@ import { Photos } from '../photos';
 
 
 @Component({
-  selector: 'app-photos-list.component',
+  selector: 'app-photos-list',
   templateUrl: './photos-list.component.html',
   styleUrls: ['./photos-list.component.css']
 })
